@@ -1,4 +1,4 @@
-  Privacy Policy body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } **Privacy Policy**
+**Privacy Policy**
 
 Igor Belkin built the Control systems simulation app as a Free app. This SERVICE is provided by Igor Belkin at no cost and is intended for use as is.
 
